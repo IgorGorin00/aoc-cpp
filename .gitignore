@@ -1,3 +1,4 @@
 *.o
 try.cpp
 new_core.*
+nohup.out
