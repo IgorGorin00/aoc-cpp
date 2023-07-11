@@ -1,4 +1,5 @@
 *.o
 try.cpp
+day12.cpp
 new_core.*
 nohup.out
