@@ -3,3 +3,6 @@ try.cpp
 day12.cpp
 new_core.*
 nohup.out
+*.js
+day16_test.txt
+day16_2.cpp
